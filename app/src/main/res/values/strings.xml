@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiniGame</string>
+    <string name="numero"></string>
+    <string name="iniciar">Start</string>
+    <string name="quit">Exit</string>
+    <string name="resultado">Resultado:</string>
+</resources>
